@@ -20,20 +20,9 @@ This is a simple Calculator project developed during my summer training. It's a 
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/swapnil-siingh/Calculator.git)
    ```
-
-2. **Install Dependencies:** Navigate to the project directory and install the necessary dependencies using npm or yarn:
-   ```
-   npm install
-   ```
-
-3. **Run the Application:** Start the development server to run the calculator application:
-   ```
-   npm start
-   ```
-
-4. **Access the Calculator:** Open your web browser and visit `http://localhost:3000` to access the calculator.
+2. **Access the Calculator:** Open your web browser and visit `http://localhost:3000` to access the calculator.
 
 ## Future Enhancements
 
@@ -46,12 +35,8 @@ As my first React project, there's room for improvement and expansion of this ca
 
 ## Author
 
-This project was created by [Your Name] during summer training.
+This project was created by Swapnil Singh during summer training.
 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Replace `[Your Name]` in the README with your actual name or username. Feel free to add or modify any sections or details to better describe your project and its features.
